@@ -17,4 +17,8 @@ The code included in this repository allows us to toggle between three datasets:
 
 As we can see it performs real time predictions and shows the accuracy.
 
+In order to run the python files, just type 
+-- streamlit run python_file_name.py
+
 Do check out https://www.streamlit.io for more insights.
+
